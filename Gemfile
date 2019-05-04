@@ -5,6 +5,8 @@ ruby '2.5.1'
 
 gem 'therubyracer'
 
+gem 'libv8', '~> 3.16.14.19'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.3'
 # Use Puma as the app server
